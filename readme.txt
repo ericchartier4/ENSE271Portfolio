@@ -1,2 +1,0 @@
-for my extra feature I tried was not only to annotate the "review queue cards" card to indicate it's dependency on annother card 
-I also changed the colour of the task card to indicate that this task is an advanced task and has no basic task component 
