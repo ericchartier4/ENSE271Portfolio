@@ -1,0 +1,1 @@
+this lab is an exploration into using wordpress , here we were free to explore diffrent functionalities of of wordpress , including templates 
