@@ -3,6 +3,6 @@
 Here you will find files for assignments that I have done during the labs for ENSE271 
 
 ## Technologies  learned 
--StoriesONboard
+-StoriesOnBoard
 -AdobeXD
 -WordPress 
